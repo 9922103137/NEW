@@ -9,7 +9,7 @@ int main()
     b=7;
     c = a + b;
 
-    cout << "sum is: " << c << endl;
+    cout << "sum : " << c << endl;
 
     return 0;
 }
